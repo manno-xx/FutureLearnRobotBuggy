@@ -1,7 +1,7 @@
 /* jshint esversion: 6 */
 
 // calculate resistors for a voltage divider
-const R1 = 1200;        // Your current resistor (alter this)
+const R1 = 330;        // Your current resistor (alter this)
 const Vout = 3.3;       // The voltage you are trying to achieve (always 3.3) across the resistor R2
 const Vin = 5;          // The input voltage (always 5)
 
